@@ -21,11 +21,12 @@ html, body {
 }
 
 .nav li {
-  padding: 20px;
+  padding: 20px 20px 20px 40px;
   color: #fff;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 12px;
+  text-transform: uppercase;
 }
 
 .main {
@@ -99,7 +100,7 @@ html, body {
 }
 
 .footer p {
-  padding-left: 20px;
+  padding-left: 40px;
   font-family: 'Raleway', sans-serif;
   text-transform: uppercase;
   font-size: 11px;
